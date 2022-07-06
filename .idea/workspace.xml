@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18baa5c9-c3d5-4ffa-bd16-385d4f0bb92c" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/qiita_sample/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/qiita_sample/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qiita_sample/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/qiita_sample/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qiita_sample/main_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qiita_sample/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/qiita_sample/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZMKw5MBACuZNDiDQUJgCMk69g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="18baa5c9-c3d5-4ffa-bd16-385d4f0bb92c" name="変更" comment="" />
+      <created>1657109094419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657109094419</updated>
+    </task>
+    <servers />
+  </component>
+</project>
