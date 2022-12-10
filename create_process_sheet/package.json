@@ -1,0 +1,28 @@
+{
+  "name": "flask-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aburayamakeito/Flask-Electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburayamakeito/Flask-Electron/issues"
+  },
+  "homepage": "https://github.com/aburayamakeito/Flask-Electron#readme",
+  "devDependencies": {
+    "electron": "^19.0.6"
+  },
+  "dependencies": {
+    "python-shell": "^3.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
